@@ -1,0 +1,40 @@
+[colors]
+# Foreground / Background
+foreground = "#ecdef5"
+background = "#010c18"
+
+# Cursor
+cursor_fg = "#000000"
+cursor_bg = "#38ff9d"
+cursor_border = "#38ff9d"
+
+# Selection
+selection_fg = "#000000"
+selection_bg = "#b3d7ff"
+
+# ANSI Colors
+ansi = [
+  "#0b3b61",   # black   (Ansi 0 Dark)
+  "#ff3a3a",   # red     (Ansi 1 Dark)
+  "#52ffcf",   # green   (Ansi 2 Dark)
+  "#fff383",   # yellow  (Ansi 3 Dark)
+  "#1376f9",   # blue    (Ansi 4 Dark)
+  "#c792ea",   # magenta (Ansi 5 Dark)
+  "#ff5ed8",   # cyan    (Ansi 6 Dark)
+  "#16fd9e",   # white   (Ansi 7 Dark)
+]
+
+brights = [
+  "#636d6d",   # bright black   (Ansi 8 Dark)
+  "#ff54b0",   # bright red     (Ansi 9 Dark)
+  "#74ffd8",   # bright green   (Ansi 10 Dark)
+  "#fdf5ae",   # bright yellow  (Ansi 11 Dark)
+  "#388eff",   # bright blue    (Ansi 12 Dark)
+  "#ae81ff",   # bright magenta (Ansi 13 Dark)
+  "#ff6ad7",   # bright cyan    (Ansi 14 Dark)
+  "#60fcbf",   # bright white   (Ansi 15 Dark)
+]
+
+[metadata]
+name = "coolnight"
+author = "atul"
